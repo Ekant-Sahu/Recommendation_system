@@ -34,5 +34,5 @@ To run the project locally, you need to have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository/movie-recommender.git
-   cd movie-recommender
+   git clone https://github.com/Ekant-sahu/Recommendation_system.git
+   cd Recommendation_system
